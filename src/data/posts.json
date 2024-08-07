@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "next.js14-udemy",
+      "title": "Next.js14をUdemyで学ぶ",
+      "content": "shincodeさんの教材でNrxt.js14を学んでいます。",
+      "createdAt": "2024/8/8"
+    },
+    {
+      "id": "ramen",
+      "title": "ラーメンを食べました",
+      "content": "恵比寿にある人類みな麺類というラーメン屋、とても美味でした！。",
+      "createdAt": "2024/8/10"
+    }
+  ]
+}
