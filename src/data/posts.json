@@ -29,18 +29,6 @@
       "title": "routerTestTitle",
       "content": "routerTestContent",
       "createdAt": "2024-08-12T15:11:28.903Z"
-    },
-    {
-      "id": "blog",
-      "title": "blog",
-      "content": "blog",
-      "createdAt": "2024-08-12T15:35:52.894Z"
-    },
-    {
-      "id": "loading",
-      "title": "loading",
-      "content": "loading",
-      "createdAt": "2024-08-12T15:37:05.296Z"
     }
   ]
 }
