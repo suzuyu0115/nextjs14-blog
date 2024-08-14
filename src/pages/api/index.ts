@@ -7,6 +7,8 @@ export default async function handler(
 ) {
   const { data, error } = await supabase.from("posts").select("*");
 
+  console.log(data);
+
   if (error) {
     return res.status(500).json({ error: error.message });
   }
